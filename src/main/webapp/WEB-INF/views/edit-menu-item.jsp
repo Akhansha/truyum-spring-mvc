@@ -13,7 +13,7 @@
 </head>
 <body>
 	<header class="header">
-		<h1 class="heading-truYum">truYum</h1>
+		<h2 class="heading-truYum">truYum</h2>
 		<img src="Images/fork-knife.png" alt="forandKnife" class="forkImg">
 		<a href="/show-menu-list-admin" class="menu-button">Menu</a>
 	</header>
