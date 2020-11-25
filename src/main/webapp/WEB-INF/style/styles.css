@@ -1,0 +1,131 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 100%;
+    height: 100vh;
+}
+
+.header{
+    background-color: #315496;
+    height: 80px;
+    align-content: center;
+    vertical-align: baseline;
+}
+
+.heading-truYum{
+    color: #ffffff;
+    font-style: normal;
+    margin-top: 0%;
+    position: absolute;
+    left: 30px;
+    top: 25px;
+    vertical-align: middle;
+    text-align: center;
+    padding: 0;
+}
+
+.forkImg{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 175px;
+    top: 28px;
+}
+
+
+.menu-button{
+    position: absolute;
+    right: 200px;
+    top: 35px;
+    color: #fdfdfd;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.cart-button{
+    position: absolute;
+    right: 100px;
+    top: 35px;
+    color: #fdfdfd;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+
+.body{
+    height: 750px;
+    margin-top: 50px;
+    align-self: baseline;
+    text-align: center;
+    background-color: #fdfdfd;
+    display: block;
+}
+
+
+a{
+    color: blue;
+}
+
+.body-text-heading{
+    text-align: left;
+    align-items: baseline;
+    left: 200px;
+    margin: 0%;
+    position: relative;
+    vertical-align: middle;
+    width: 1000px;
+}
+
+.cust-notif-subheading,.edit-menu-status{
+    color: #10ac4c;
+    font-weight: bold;
+}
+
+.cart-empty-message{
+    color: #777777;
+    position: relative;
+    text-align: left;
+    left: 200px;
+    width: 1000px;
+}
+
+.cart-notif-table{
+    position: relative;
+    left: 200px;
+}
+
+.cart-notif-table-cells{
+    width: 100px;
+}
+
+.form-edit-menu{
+    position: relative;
+    left: 200px;
+    right: 200px;
+    width: 1000px;
+    text-align: left;
+}
+
+.menuTableTable{
+    padding-left: 200px;
+    text-align: left;
+}
+
+.menuTableElements{
+    width: 200px;
+}
+
+.footer{
+    background-color: #bfbfbf;
+    height: 80px;
+    position: relative;
+}
+
+.copyright{
+    position: relative;
+    top: 30px;
+    left: 30px;
+    bottom: 30px;
+}
